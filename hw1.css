@@ -3,7 +3,9 @@ body{
 }
 header{
   text-align: center;
-background-image: url(Flywheel.jpg);
+background-image: url(Flywheel.JPG);
+background-color: red;
+background-repeat: no-repeat;
 height:200px;
 
 }
